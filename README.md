@@ -1,4 +1,4 @@
-So hello guy, u can call me Quang, so im a programmer in the role of developer engineer. The first, so happy 'cause u read my profile. Lets start !
+So hello guys, u can call me Quang, so im a programmer in the role of developer engineer. The first, so happy 'cause u read my profile. Lets start !
 - 👋 Hi, I’m Quang
 - 👀 I’m interested in reading books, coding, gym, and playing game
 - im studing in Hanoi university of science and technology, fourth years
