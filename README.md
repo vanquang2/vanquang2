@@ -4,12 +4,18 @@ I'm a full stack developer with more than 2 years of experience working with Jav
 Learning new languages and technologies is what I am passionate about. I am considered a team-player because I like to help others and tend to work well within the group. I can also do some mentoring tasks and do code reviews for other team members.
 
 •	Programming languages: Java, PHP
+
 •	Frameworks: Java Spring Boot, Java Spring Cloud, PHP Laravel, PHP Yii2
+
 •	Databases: Oracle, Mysql
+
 •	Other: ELK Stack, Kafka, Mybatis, RocketMQ.
+
 •	environment: Ubuntu, Centos 7, Docker/ Kubernets
+
 •	Foreign Languages: English:
 -	Above average (Good communication)
+
 •	Others:
 -	Good understanding of OOP methodologies
 -	Experience with Agile and Scrum development process
