@@ -11,7 +11,7 @@ Learning new languages and technologies is what I am passionate about. I am cons
 
 •	Other: ELK Stack, Kafka, Mybatis, RocketMQ.
 
-•	environment: Ubuntu, Centos 7, Docker/ Kubernets
+•	environment: Ubuntu, Centos 7, Docker/ Kubernetes
 
 •	Foreign Languages: English:
 -	Above average (Good communication)
