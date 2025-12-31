@@ -32,7 +32,3 @@ From a technical perspective, I’ve worked with **Python, Java, and PHP**, and 
 - GitHub / Portfolio: [[link](https://github.com/vanquang2)]
 - Website PAWPAM WORLD: [[link](https://pawpam.org/)]
 - Website H&C: [[link](https://hncsoftware.com.vn/en)]
----
-
-Looking forward to learning, contributing, and connecting with you.  
-Thanks for stopping by!
